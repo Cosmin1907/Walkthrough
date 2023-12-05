@@ -91,6 +91,19 @@ main {
     margin-top: 47px;
 }
 
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#reasons h2 {
+    font-size: 280%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+
 /* Hero section */
 
 #hero {
